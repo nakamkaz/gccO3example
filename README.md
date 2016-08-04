@@ -1,5 +1,7 @@
 #gccO3example
 
+```text
+
 $ sh genasm.sh
 gcc (GCC) 4.8.3 20140911 (Red Hat 4.8.3-9)
 Copyright (C) 2013 Free Software Foundation, Inc.
@@ -37,3 +39,5 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <       .file   "sum1.c"
 ---
 >       .file   "sumf.c"
+
+```
